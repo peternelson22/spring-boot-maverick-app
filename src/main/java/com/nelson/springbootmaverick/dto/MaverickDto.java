@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class SubMaverickDto {
+public class MaverickDto {
 
     private Long id;
     private String name;
